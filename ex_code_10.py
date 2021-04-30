@@ -15,4 +15,4 @@ for dataset in train_test_data:
 print(train['Title'].value_counts())
 print(test['Title'].value_counts())
 
-title_mapping = {
+title_mapping = {}
